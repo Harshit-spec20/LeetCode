@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Harshit-spec20/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Harshit-spec20/LeetCode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Harshit-spec20/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0189-rotate-array) |
@@ -28,6 +29,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Harshit-spec20/LeetCode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2396-strictly-palindromic-number](https://github.com/Harshit-spec20/LeetCode/tree/master/2396-strictly-palindromic-number) |
