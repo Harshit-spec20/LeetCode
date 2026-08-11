@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Harshit-spec20/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Harshit-spec20/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -12,6 +13,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Harshit-spec20/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/Harshit-spec20/LeetCode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -31,6 +33,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Harshit-spec20/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -40,4 +43,16 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Harshit-spec20/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Harshit-spec20/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Harshit-spec20/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
