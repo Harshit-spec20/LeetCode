@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0189-rotate-array) |
+| [2235-add-two-integers](https://github.com/Harshit-spec20/LeetCode/tree/master/2235-add-two-integers) |
 ## Two Pointers
 |  |
 | ------- |
