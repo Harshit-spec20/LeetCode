@@ -112,4 +112,8 @@
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Harshit-spec20/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2595-number-of-even-and-odd-bits](https://github.com/Harshit-spec20/LeetCode/tree/master/2595-number-of-even-and-odd-bits) |
 <!---LeetCode Topics End-->
