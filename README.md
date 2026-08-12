@@ -14,6 +14,7 @@
 | [0414-third-maximum-number](https://github.com/Harshit-spec20/LeetCode/tree/master/0414-third-maximum-number) |
 | [0877-stone-game](https://github.com/Harshit-spec20/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshit-spec20/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0066-plus-one](https://github.com/Harshit-spec20/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/Harshit-spec20/LeetCode/tree/master/0877-stone-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshit-spec20/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/Harshit-spec20/LeetCode/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Harshit-spec20/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Two Pointers
