@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harshit-spec20/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Harshit-spec20/LeetCode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Harshit-spec20/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -22,6 +23,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Harshit-spec20/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/Harshit-spec20/LeetCode/tree/master/0414-third-maximum-number) |
@@ -45,6 +47,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harshit-spec20/LeetCode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/Harshit-spec20/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
