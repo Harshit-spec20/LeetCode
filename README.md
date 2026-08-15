@@ -46,6 +46,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Harshit-spec20/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Harshit-spec20/LeetCode/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Harshit-spec20/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harshit-spec20/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshit-spec20/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/Harshit-spec20/LeetCode/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Harshit-spec20/LeetCode/tree/master/2396-strictly-palindromic-number) |
