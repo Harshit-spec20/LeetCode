@@ -142,6 +142,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harshit-spec20/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Harshit-spec20/LeetCode/tree/master/0020-valid-parentheses) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Harshit-spec20/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1108-defanging-an-ip-address](https://github.com/Harshit-spec20/LeetCode/tree/master/1108-defanging-an-ip-address) |
 ## Number Theory
@@ -160,4 +161,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harshit-spec20/LeetCode/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Harshit-spec20/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Harshit-spec20/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
