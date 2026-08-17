@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Harshit-spec20/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harshit-spec20/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Harshit-spec20/LeetCode/tree/master/0066-plus-one) |
@@ -140,6 +141,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Harshit-spec20/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Harshit-spec20/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1108-defanging-an-ip-address](https://github.com/Harshit-spec20/LeetCode/tree/master/1108-defanging-an-ip-address) |
 ## Number Theory
@@ -154,4 +156,8 @@
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Harshit-spec20/LeetCode/tree/master/2427-number-of-common-factors) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Harshit-spec20/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
