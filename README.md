@@ -22,6 +22,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/Harshit-spec20/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshit-spec20/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshit-spec20/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1528-shuffle-string](https://github.com/Harshit-spec20/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harshit-spec20/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Harshit-spec20/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harshit-spec20/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -163,6 +164,7 @@
 | [1108-defanging-an-ip-address](https://github.com/Harshit-spec20/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Harshit-spec20/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshit-spec20/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1528-shuffle-string](https://github.com/Harshit-spec20/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harshit-spec20/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Harshit-spec20/LeetCode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 ## Number Theory
