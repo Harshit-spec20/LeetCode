@@ -43,6 +43,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Harshit-spec20/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Harshit-spec20/LeetCode/tree/master/0066-plus-one) |
+| [0171-excel-sheet-column-number](https://github.com/Harshit-spec20/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Harshit-spec20/LeetCode/tree/master/0263-ugly-number) |
 | [0400-nth-digit](https://github.com/Harshit-spec20/LeetCode/tree/master/0400-nth-digit) |
@@ -152,6 +153,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harshit-spec20/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Harshit-spec20/LeetCode/tree/master/0020-valid-parentheses) |
+| [0171-excel-sheet-column-number](https://github.com/Harshit-spec20/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Harshit-spec20/LeetCode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Harshit-spec20/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
