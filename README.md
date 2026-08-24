@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/Harshit-spec20/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harshit-spec20/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Harshit-spec20/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Harshit-spec20/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Harshit-spec20/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -149,6 +150,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Harshit-spec20/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Harshit-spec20/LeetCode/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/Harshit-spec20/LeetCode/tree/master/0400-nth-digit) |
 | [0633-sum-of-square-numbers](https://github.com/Harshit-spec20/LeetCode/tree/master/0633-sum-of-square-numbers) |
