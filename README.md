@@ -14,6 +14,7 @@
 | [0189-rotate-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Harshit-spec20/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Harshit-spec20/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Harshit-spec20/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Harshit-spec20/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Harshit-spec20/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -38,6 +39,7 @@
 | [0088-merge-sorted-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Harshit-spec20/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Harshit-spec20/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Harshit-spec20/LeetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshit-spec20/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -52,6 +54,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Harshit-spec20/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Harshit-spec20/LeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Harshit-spec20/LeetCode/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/Harshit-spec20/LeetCode/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Harshit-spec20/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshit-spec20/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -102,6 +105,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Harshit-spec20/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Harshit-spec20/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Harshit-spec20/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshit-spec20/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -145,6 +149,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Harshit-spec20/LeetCode/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/Harshit-spec20/LeetCode/tree/master/0400-nth-digit) |
 | [0633-sum-of-square-numbers](https://github.com/Harshit-spec20/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Recursion
@@ -160,6 +165,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Harshit-spec20/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Harshit-spec20/LeetCode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Harshit-spec20/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2595-number-of-even-and-odd-bits](https://github.com/Harshit-spec20/LeetCode/tree/master/2595-number-of-even-and-odd-bits) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Harshit-spec20/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
