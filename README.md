@@ -32,6 +32,7 @@
 | [1528-shuffle-string](https://github.com/Harshit-spec20/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harshit-spec20/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Harshit-spec20/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2109-adding-spaces-to-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harshit-spec20/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Harshit-spec20/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Harshit-spec20/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -84,6 +85,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Harshit-spec20/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Harshit-spec20/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2109-adding-spaces-to-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2396-strictly-palindromic-number](https://github.com/Harshit-spec20/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Prefix Sum
 |  |
@@ -192,6 +194,7 @@
 | [1528-shuffle-string](https://github.com/Harshit-spec20/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harshit-spec20/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2109-adding-spaces-to-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2129-capitalize-the-title](https://github.com/Harshit-spec20/LeetCode/tree/master/2129-capitalize-the-title) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Harshit-spec20/LeetCode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -245,4 +248,5 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Harshit-spec20/LeetCode/tree/master/0682-baseball-game) |
+| [2109-adding-spaces-to-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->
