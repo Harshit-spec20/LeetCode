@@ -82,6 +82,7 @@
 | [0283-move-zeroes](https://github.com/Harshit-spec20/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Harshit-spec20/LeetCode/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/Harshit-spec20/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Harshit-spec20/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Harshit-spec20/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -187,6 +188,7 @@
 | [0392-is-subsequence](https://github.com/Harshit-spec20/LeetCode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Harshit-spec20/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0520-detect-capital](https://github.com/Harshit-spec20/LeetCode/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/Harshit-spec20/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/Harshit-spec20/LeetCode/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Harshit-spec20/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Harshit-spec20/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
