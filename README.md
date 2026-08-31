@@ -200,6 +200,7 @@
 | [0520-detect-capital](https://github.com/Harshit-spec20/LeetCode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Harshit-spec20/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/Harshit-spec20/LeetCode/tree/master/0709-to-lower-case) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harshit-spec20/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Harshit-spec20/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Harshit-spec20/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshit-spec20/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -231,6 +232,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harshit-spec20/LeetCode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Harshit-spec20/LeetCode/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harshit-spec20/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
