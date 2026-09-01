@@ -33,6 +33,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Harshit-spec20/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshit-spec20/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Harshit-spec20/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshit-spec20/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-shuffle-string](https://github.com/Harshit-spec20/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harshit-spec20/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
