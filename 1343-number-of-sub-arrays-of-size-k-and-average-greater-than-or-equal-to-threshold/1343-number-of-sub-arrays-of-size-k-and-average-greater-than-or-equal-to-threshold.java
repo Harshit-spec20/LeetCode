@@ -10,8 +10,8 @@ class Solution {
         if (sum/k >=threshold)
             count++;
 
-        for (int i = k; i < arr.length; i++) {
-            sum = sum - arr[i - k] + arr[i];
+        for (int i = 1; i <=arr.length-k; i++) {
+            sum = sum - arr[i - 1] + arr[i+k-1];
 
             if (sum/k >=threshold)
                 count++;
