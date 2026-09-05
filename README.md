@@ -50,6 +50,7 @@
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Harshit-spec20/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Harshit-spec20/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3903-smallest-stable-index-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Harshit-spec20/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Harshit-spec20/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Harshit-spec20/LeetCode/tree/master/0724-find-pivot-index) |
 | [3903-smallest-stable-index-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Harshit-spec20/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
