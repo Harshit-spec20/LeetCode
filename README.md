@@ -17,6 +17,7 @@
 | [0169-majority-element](https://github.com/Harshit-spec20/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/Harshit-spec20/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Harshit-spec20/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Harshit-spec20/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Harshit-spec20/LeetCode/tree/master/0283-move-zeroes) |
@@ -136,6 +137,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Harshit-spec20/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Harshit-spec20/LeetCode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Harshit-spec20/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Harshit-spec20/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -267,6 +269,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Harshit-spec20/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Harshit-spec20/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Harshit-spec20/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshit-spec20/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
