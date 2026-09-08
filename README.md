@@ -140,6 +140,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Harshit-spec20/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Harshit-spec20/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshit-spec20/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshit-spec20/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -220,6 +221,7 @@
 | [0392-is-subsequence](https://github.com/Harshit-spec20/LeetCode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Harshit-spec20/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Harshit-spec20/LeetCode/tree/master/0412-fizz-buzz) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/Harshit-spec20/LeetCode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Harshit-spec20/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/Harshit-spec20/LeetCode/tree/master/0709-to-lower-case) |
@@ -270,6 +272,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Harshit-spec20/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Harshit-spec20/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Harshit-spec20/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshit-spec20/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
