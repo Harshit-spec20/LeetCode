@@ -39,6 +39,7 @@
 | [0877-stone-game](https://github.com/Harshit-spec20/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Harshit-spec20/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
+| [1089-duplicate-zeros](https://github.com/Harshit-spec20/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshit-spec20/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Harshit-spec20/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Harshit-spec20/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -116,6 +117,7 @@
 | [0567-permutation-in-string](https://github.com/Harshit-spec20/LeetCode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Harshit-spec20/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Harshit-spec20/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Harshit-spec20/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2109-adding-spaces-to-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2396-strictly-palindromic-number](https://github.com/Harshit-spec20/LeetCode/tree/master/2396-strictly-palindromic-number) |
