@@ -271,6 +271,7 @@
 | [2255-count-prefixes-of-a-given-string](https://github.com/Harshit-spec20/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Harshit-spec20/LeetCode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -334,6 +335,7 @@
 | [0682-baseball-game](https://github.com/Harshit-spec20/LeetCode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Harshit-spec20/LeetCode/tree/master/0867-transpose-matrix) |
 | [2109-adding-spaces-to-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
 |  |
 | ------- |
