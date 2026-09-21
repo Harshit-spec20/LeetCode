@@ -36,6 +36,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshit-spec20/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Harshit-spec20/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Harshit-spec20/LeetCode/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/Harshit-spec20/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Harshit-spec20/LeetCode/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/Harshit-spec20/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Harshit-spec20/LeetCode/tree/master/0867-transpose-matrix) |
@@ -227,6 +228,7 @@
 | [0268-missing-number](https://github.com/Harshit-spec20/LeetCode/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/Harshit-spec20/LeetCode/tree/master/0400-nth-digit) |
 | [0633-sum-of-square-numbers](https://github.com/Harshit-spec20/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/Harshit-spec20/LeetCode/tree/master/0704-binary-search) |
 ## Recursion
 |  |
 | ------- |
