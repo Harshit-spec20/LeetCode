@@ -56,6 +56,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshit-spec20/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Harshit-spec20/LeetCode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1528-shuffle-string](https://github.com/Harshit-spec20/LeetCode/tree/master/1528-shuffle-string) |
+| [1539-kth-missing-positive-number](https://github.com/Harshit-spec20/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1652-defuse-the-bomb](https://github.com/Harshit-spec20/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harshit-spec20/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2090-k-radius-subarray-averages](https://github.com/Harshit-spec20/LeetCode/tree/master/2090-k-radius-subarray-averages) |
@@ -239,6 +240,7 @@
 | [0400-nth-digit](https://github.com/Harshit-spec20/LeetCode/tree/master/0400-nth-digit) |
 | [0633-sum-of-square-numbers](https://github.com/Harshit-spec20/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Harshit-spec20/LeetCode/tree/master/0704-binary-search) |
+| [1539-kth-missing-positive-number](https://github.com/Harshit-spec20/LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## Recursion
 |  |
 | ------- |
