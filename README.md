@@ -60,6 +60,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Harshit-spec20/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1652-defuse-the-bomb](https://github.com/Harshit-spec20/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harshit-spec20/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Harshit-spec20/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/Harshit-spec20/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Harshit-spec20/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2109-adding-spaces-to-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
@@ -91,6 +92,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/Harshit-spec20/LeetCode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshit-spec20/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Harshit-spec20/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Harshit-spec20/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harshit-spec20/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harshit-spec20/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -245,6 +247,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Harshit-spec20/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Harshit-spec20/LeetCode/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/Harshit-spec20/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Harshit-spec20/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Recursion
 |  |
 | ------- |
