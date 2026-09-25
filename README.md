@@ -118,6 +118,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshit-spec20/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Harshit-spec20/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2235-add-two-integers](https://github.com/Harshit-spec20/LeetCode/tree/master/2235-add-two-integers) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Harshit-spec20/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2396-strictly-palindromic-number](https://github.com/Harshit-spec20/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2427-number-of-common-factors](https://github.com/Harshit-spec20/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/Harshit-spec20/LeetCode/tree/master/2806-account-balance-after-rounded-purchase) |
@@ -295,6 +296,7 @@
 | [2109-adding-spaces-to-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2129-capitalize-the-title](https://github.com/Harshit-spec20/LeetCode/tree/master/2129-capitalize-the-title) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Harshit-spec20/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Harshit-spec20/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Harshit-spec20/LeetCode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -341,6 +343,7 @@
 | [1652-defuse-the-bomb](https://github.com/Harshit-spec20/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Harshit-spec20/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2090-k-radius-subarray-averages](https://github.com/Harshit-spec20/LeetCode/tree/master/2090-k-radius-subarray-averages) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Harshit-spec20/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Queue
 |  |
 | ------- |
