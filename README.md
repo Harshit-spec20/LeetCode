@@ -290,6 +290,7 @@
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Harshit-spec20/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshit-spec20/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/Harshit-spec20/LeetCode/tree/master/1528-shuffle-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshit-spec20/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harshit-spec20/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Harshit-spec20/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -322,10 +323,12 @@
 | [0020-valid-parentheses](https://github.com/Harshit-spec20/LeetCode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Harshit-spec20/LeetCode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harshit-spec20/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshit-spec20/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harshit-spec20/LeetCode/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshit-spec20/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Union-Find
 |  |
 | ------- |
