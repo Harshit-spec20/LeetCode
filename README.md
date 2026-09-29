@@ -67,6 +67,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harshit-spec20/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Harshit-spec20/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Harshit-spec20/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Harshit-spec20/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harshit-spec20/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Harshit-spec20/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -219,6 +220,7 @@
 | [0392-is-subsequence](https://github.com/Harshit-spec20/LeetCode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Harshit-spec20/LeetCode/tree/master/0396-rotate-function) |
 | [0877-stone-game](https://github.com/Harshit-spec20/LeetCode/tree/master/0877-stone-game) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Harshit-spec20/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 ## Minimax
 |  |
@@ -329,6 +331,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harshit-spec20/LeetCode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshit-spec20/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Harshit-spec20/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Union-Find
 |  |
 | ------- |
@@ -375,6 +378,7 @@
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/Harshit-spec20/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Harshit-spec20/LeetCode/tree/master/0867-transpose-matrix) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Harshit-spec20/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Quicksort
 |  |
 | ------- |
