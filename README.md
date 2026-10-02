@@ -103,6 +103,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Harshit-spec20/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Harshit-spec20/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Harshit-spec20/LeetCode/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/Harshit-spec20/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Harshit-spec20/LeetCode/tree/master/0263-ugly-number) |
@@ -244,6 +245,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Harshit-spec20/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Harshit-spec20/LeetCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshit-spec20/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshit-spec20/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -399,4 +401,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Harshit-spec20/LeetCode/tree/master/0022-generate-parentheses) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Harshit-spec20/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
