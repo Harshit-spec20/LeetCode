@@ -74,6 +74,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/Harshit-spec20/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3524-find-x-value-of-array-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Harshit-spec20/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Harshit-spec20/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Harshit-spec20/LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -203,6 +204,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/Harshit-spec20/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Harshit-spec20/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Harshit-spec20/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Counting
 |  |
 | ------- |
