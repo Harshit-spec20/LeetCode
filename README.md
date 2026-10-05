@@ -106,6 +106,7 @@
 | [0007-reverse-integer](https://github.com/Harshit-spec20/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Harshit-spec20/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Harshit-spec20/LeetCode/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/Harshit-spec20/LeetCode/tree/master/0089-gray-code) |
 | [0171-excel-sheet-column-number](https://github.com/Harshit-spec20/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Harshit-spec20/LeetCode/tree/master/0263-ugly-number) |
@@ -272,6 +273,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Harshit-spec20/LeetCode/tree/master/0089-gray-code) |
 | [0191-number-of-1-bits](https://github.com/Harshit-spec20/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Harshit-spec20/LeetCode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Harshit-spec20/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -405,6 +407,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Harshit-spec20/LeetCode/tree/master/0022-generate-parentheses) |
+| [0089-gray-code](https://github.com/Harshit-spec20/LeetCode/tree/master/0089-gray-code) |
 ## Newton's Method
 |  |
 | ------- |
