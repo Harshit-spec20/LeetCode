@@ -4,15 +4,11 @@ class Solution {
         int[] ans = new int[n];
 
         for (int i = 0; i < n; i++) {
-            if (k > 0) {
-                for (int j = 1; j <= k; j++) {
+            for (int j = 1; j <= Math.abs(k); j++) {
+                if (k > 0)
                     ans[i] += code[(i + j) % n];
-                }
-            }
-            else if (k < 0) {
-                for (int j = 1; j <= -k; j++) {
+                else
                     ans[i] += code[(i - j + n) % n];
-                }
             }
         }
 
