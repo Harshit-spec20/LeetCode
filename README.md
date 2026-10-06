@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/Harshit-spec20/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harshit-spec20/LeetCode/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Harshit-spec20/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Harshit-spec20/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Harshit-spec20/LeetCode/tree/master/0075-sort-colors) |
@@ -252,6 +253,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Harshit-spec20/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Harshit-spec20/LeetCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
