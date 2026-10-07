@@ -131,6 +131,7 @@
 | [2427-number-of-common-factors](https://github.com/Harshit-spec20/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/Harshit-spec20/LeetCode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Harshit-spec20/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3492-maximum-containers-on-a-ship](https://github.com/Harshit-spec20/LeetCode/tree/master/3492-maximum-containers-on-a-ship) |
 | [3524-find-x-value-of-array-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Harshit-spec20/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Harshit-spec20/LeetCode/tree/master/3870-count-commas-in-range) |
