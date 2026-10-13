@@ -136,6 +136,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Harshit-spec20/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3524-find-x-value-of-array-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Harshit-spec20/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Harshit-spec20/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3870-count-commas-in-range](https://github.com/Harshit-spec20/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -400,6 +401,7 @@
 | [0867-transpose-matrix](https://github.com/Harshit-spec20/LeetCode/tree/master/0867-transpose-matrix) |
 | [2109-adding-spaces-to-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Harshit-spec20/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Matrix
 |  |
 | ------- |
