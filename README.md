@@ -108,6 +108,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Harshit-spec20/LeetCode/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/Harshit-spec20/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Harshit-spec20/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Harshit-spec20/LeetCode/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/Harshit-spec20/LeetCode/tree/master/0089-gray-code) |
@@ -276,6 +277,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Harshit-spec20/LeetCode/tree/master/0050-powx-n) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Harshit-spec20/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Enumeration
 |  |
