@@ -108,6 +108,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Harshit-spec20/LeetCode/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/Harshit-spec20/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Harshit-spec20/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Harshit-spec20/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Harshit-spec20/LeetCode/tree/master/0069-sqrtx) |
@@ -301,6 +302,7 @@
 | [0014-longest-common-prefix](https://github.com/Harshit-spec20/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Harshit-spec20/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Harshit-spec20/LeetCode/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/Harshit-spec20/LeetCode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Harshit-spec20/LeetCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Harshit-spec20/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -399,6 +401,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Harshit-spec20/LeetCode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/Harshit-spec20/LeetCode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Harshit-spec20/LeetCode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Harshit-spec20/LeetCode/tree/master/0867-transpose-matrix) |
