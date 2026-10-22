@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/Harshit-spec20/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Harshit-spec20/LeetCode/tree/master/0035-search-insert-position) |
+| [0064-minimum-path-sum](https://github.com/Harshit-spec20/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Harshit-spec20/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Harshit-spec20/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harshit-spec20/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -238,6 +239,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harshit-spec20/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Harshit-spec20/LeetCode/tree/master/0022-generate-parentheses) |
+| [0064-minimum-path-sum](https://github.com/Harshit-spec20/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0392-is-subsequence](https://github.com/Harshit-spec20/LeetCode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Harshit-spec20/LeetCode/tree/master/0396-rotate-function) |
 | [0877-stone-game](https://github.com/Harshit-spec20/LeetCode/tree/master/0877-stone-game) |
@@ -413,6 +415,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Harshit-spec20/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0766-toeplitz-matrix](https://github.com/Harshit-spec20/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Harshit-spec20/LeetCode/tree/master/0867-transpose-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Harshit-spec20/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
