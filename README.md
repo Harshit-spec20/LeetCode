@@ -249,6 +249,7 @@
 | [0022-generate-parentheses](https://github.com/Harshit-spec20/LeetCode/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/Harshit-spec20/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/Harshit-spec20/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0338-counting-bits](https://github.com/Harshit-spec20/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Harshit-spec20/LeetCode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Harshit-spec20/LeetCode/tree/master/0396-rotate-function) |
 | [0877-stone-game](https://github.com/Harshit-spec20/LeetCode/tree/master/0877-stone-game) |
@@ -306,6 +307,7 @@
 | [0090-subsets-ii](https://github.com/Harshit-spec20/LeetCode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/Harshit-spec20/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Harshit-spec20/LeetCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Harshit-spec20/LeetCode/tree/master/0338-counting-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Harshit-spec20/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2595-number-of-even-and-odd-bits](https://github.com/Harshit-spec20/LeetCode/tree/master/2595-number-of-even-and-odd-bits) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Harshit-spec20/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
