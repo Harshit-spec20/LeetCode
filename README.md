@@ -331,6 +331,7 @@
 | [0392-is-subsequence](https://github.com/Harshit-spec20/LeetCode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Harshit-spec20/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Harshit-spec20/LeetCode/tree/master/0412-fizz-buzz) |
+| [0434-number-of-segments-in-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/Harshit-spec20/LeetCode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Harshit-spec20/LeetCode/tree/master/0541-reverse-string-ii) |
