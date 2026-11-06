@@ -77,6 +77,7 @@
 | [2255-count-prefixes-of-a-given-string](https://github.com/Harshit-spec20/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Harshit-spec20/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harshit-spec20/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2747-count-zero-request-servers](https://github.com/Harshit-spec20/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Harshit-spec20/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Harshit-spec20/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -114,6 +115,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/Harshit-spec20/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harshit-spec20/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harshit-spec20/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2747-count-zero-request-servers](https://github.com/Harshit-spec20/LeetCode/tree/master/2747-count-zero-request-servers) |
 ## Math
 |  |
 | ------- |
@@ -230,6 +232,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Harshit-spec20/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Harshit-spec20/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2747-count-zero-request-servers](https://github.com/Harshit-spec20/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Harshit-spec20/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Harshit-spec20/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -410,6 +413,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Harshit-spec20/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2090-k-radius-subarray-averages](https://github.com/Harshit-spec20/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Harshit-spec20/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2747-count-zero-request-servers](https://github.com/Harshit-spec20/LeetCode/tree/master/2747-count-zero-request-servers) |
 ## Queue
 |  |
 | ------- |
