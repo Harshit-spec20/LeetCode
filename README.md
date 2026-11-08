@@ -57,6 +57,7 @@
 | [1089-duplicate-zeros](https://github.com/Harshit-spec20/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/Harshit-spec20/LeetCode/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Harshit-spec20/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1267-count-servers-that-communicate](https://github.com/Harshit-spec20/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshit-spec20/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Harshit-spec20/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Harshit-spec20/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -244,6 +245,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Harshit-spec20/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/Harshit-spec20/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Harshit-spec20/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -399,6 +401,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Harshit-spec20/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [1267-count-servers-that-communicate](https://github.com/Harshit-spec20/LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Sliding Window
 |  |
 | ------- |
@@ -447,6 +450,7 @@
 | [0064-minimum-path-sum](https://github.com/Harshit-spec20/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0766-toeplitz-matrix](https://github.com/Harshit-spec20/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Harshit-spec20/LeetCode/tree/master/0867-transpose-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/Harshit-spec20/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Harshit-spec20/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Quicksort
 |  |
@@ -492,4 +496,12 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0912-sort-an-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Harshit-spec20/LeetCode/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Harshit-spec20/LeetCode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
