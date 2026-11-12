@@ -83,6 +83,7 @@
 | [2747-count-zero-request-servers](https://github.com/Harshit-spec20/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Harshit-spec20/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Harshit-spec20/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Harshit-spec20/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Harshit-spec20/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Harshit-spec20/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
