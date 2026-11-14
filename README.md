@@ -86,6 +86,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Harshit-spec20/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Harshit-spec20/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Harshit-spec20/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Harshit-spec20/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Harshit-spec20/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3524-find-x-value-of-array-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Harshit-spec20/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -197,6 +198,7 @@
 | [0238-product-of-array-except-self](https://github.com/Harshit-spec20/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshit-spec20/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Harshit-spec20/LeetCode/tree/master/0724-find-pivot-index) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Harshit-spec20/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Harshit-spec20/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
@@ -425,6 +427,7 @@
 | [2090-k-radius-subarray-averages](https://github.com/Harshit-spec20/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Harshit-spec20/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2747-count-zero-request-servers](https://github.com/Harshit-spec20/LeetCode/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Harshit-spec20/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Queue
 |  |
 | ------- |
