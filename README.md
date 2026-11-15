@@ -65,6 +65,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshit-spec20/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Harshit-spec20/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Harshit-spec20/LeetCode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Harshit-spec20/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1528-shuffle-string](https://github.com/Harshit-spec20/LeetCode/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/Harshit-spec20/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Harshit-spec20/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -146,6 +147,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harshit-spec20/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshit-spec20/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Harshit-spec20/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Harshit-spec20/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2235-add-two-integers](https://github.com/Harshit-spec20/LeetCode/tree/master/2235-add-two-integers) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Harshit-spec20/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2396-strictly-palindromic-number](https://github.com/Harshit-spec20/LeetCode/tree/master/2396-strictly-palindromic-number) |
@@ -198,6 +200,7 @@
 | [0238-product-of-array-except-self](https://github.com/Harshit-spec20/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshit-spec20/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Harshit-spec20/LeetCode/tree/master/0724-find-pivot-index) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Harshit-spec20/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Harshit-spec20/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Harshit-spec20/LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -273,6 +276,7 @@
 | [0392-is-subsequence](https://github.com/Harshit-spec20/LeetCode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Harshit-spec20/LeetCode/tree/master/0396-rotate-function) |
 | [0877-stone-game](https://github.com/Harshit-spec20/LeetCode/tree/master/0877-stone-game) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Harshit-spec20/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Harshit-spec20/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/Harshit-spec20/LeetCode/tree/master/3693-climbing-stairs-ii) |
