@@ -227,6 +227,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Harshit-spec20/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshit-spec20/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Harshit-spec20/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Harshit-spec20/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Harshit-spec20/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harshit-spec20/LeetCode/tree/master/0217-contains-duplicate) |
@@ -347,6 +348,7 @@
 | [0020-valid-parentheses](https://github.com/Harshit-spec20/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Harshit-spec20/LeetCode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Harshit-spec20/LeetCode/tree/master/0043-multiply-strings) |
+| [0076-minimum-window-substring](https://github.com/Harshit-spec20/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Harshit-spec20/LeetCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Harshit-spec20/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -419,6 +421,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshit-spec20/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Harshit-spec20/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshit-spec20/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Harshit-spec20/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
