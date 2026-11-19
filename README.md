@@ -358,6 +358,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Harshit-spec20/LeetCode/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/Harshit-spec20/LeetCode/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Harshit-spec20/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Harshit-spec20/LeetCode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
@@ -405,6 +406,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harshit-spec20/LeetCode/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/Harshit-spec20/LeetCode/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/Harshit-spec20/LeetCode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harshit-spec20/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Harshit-spec20/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -454,6 +456,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harshit-spec20/LeetCode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Harshit-spec20/LeetCode/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/Harshit-spec20/LeetCode/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/Harshit-spec20/LeetCode/tree/master/0605-can-place-flowers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harshit-spec20/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Harshit-spec20/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -534,4 +537,8 @@
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Harshit-spec20/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Harshit-spec20/LeetCode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
