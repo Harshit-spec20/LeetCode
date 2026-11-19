@@ -80,6 +80,7 @@
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Harshit-spec20/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Harshit-spec20/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Harshit-spec20/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Harshit-spec20/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harshit-spec20/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2747-count-zero-request-servers](https://github.com/Harshit-spec20/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Harshit-spec20/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -121,6 +122,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harshit-spec20/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Harshit-spec20/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harshit-spec20/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Harshit-spec20/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harshit-spec20/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2747-count-zero-request-servers](https://github.com/Harshit-spec20/LeetCode/tree/master/2747-count-zero-request-servers) |
 ## Math
@@ -452,6 +454,7 @@
 | [0135-candy](https://github.com/Harshit-spec20/LeetCode/tree/master/0135-candy) |
 | [0605-can-place-flowers](https://github.com/Harshit-spec20/LeetCode/tree/master/0605-can-place-flowers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harshit-spec20/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Harshit-spec20/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Harshit-spec20/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Simulation
 |  |
