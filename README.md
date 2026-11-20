@@ -84,6 +84,7 @@
 | [2733-neither-minimum-nor-maximum](https://github.com/Harshit-spec20/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2747-count-zero-request-servers](https://github.com/Harshit-spec20/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Harshit-spec20/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Harshit-spec20/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Harshit-spec20/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Harshit-spec20/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -125,6 +126,7 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Harshit-spec20/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Harshit-spec20/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2747-count-zero-request-servers](https://github.com/Harshit-spec20/LeetCode/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Harshit-spec20/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Math
 |  |
 | ------- |
@@ -282,6 +284,7 @@
 | [0877-stone-game](https://github.com/Harshit-spec20/LeetCode/tree/master/0877-stone-game) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Harshit-spec20/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Harshit-spec20/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Harshit-spec20/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3524-find-x-value-of-array-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/Harshit-spec20/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Minimax
