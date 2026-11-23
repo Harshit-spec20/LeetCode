@@ -62,6 +62,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Harshit-spec20/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Harshit-spec20/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Harshit-spec20/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Harshit-spec20/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshit-spec20/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Harshit-spec20/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Harshit-spec20/LeetCode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -152,6 +153,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harshit-spec20/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshit-spec20/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Harshit-spec20/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Harshit-spec20/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Harshit-spec20/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2235-add-two-integers](https://github.com/Harshit-spec20/LeetCode/tree/master/2235-add-two-integers) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Harshit-spec20/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -205,6 +207,7 @@
 | [0238-product-of-array-except-self](https://github.com/Harshit-spec20/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshit-spec20/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Harshit-spec20/LeetCode/tree/master/0724-find-pivot-index) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Harshit-spec20/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Harshit-spec20/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Harshit-spec20/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -547,4 +550,12 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Harshit-spec20/LeetCode/tree/master/0402-remove-k-digits) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Harshit-spec20/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Harshit-spec20/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
