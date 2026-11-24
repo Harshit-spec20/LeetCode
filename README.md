@@ -44,6 +44,7 @@
 | [0682-baseball-game](https://github.com/Harshit-spec20/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Harshit-spec20/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Harshit-spec20/LeetCode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Harshit-spec20/LeetCode/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/Harshit-spec20/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Harshit-spec20/LeetCode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Harshit-spec20/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -417,6 +418,7 @@
 | [0227-basic-calculator-ii](https://github.com/Harshit-spec20/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/Harshit-spec20/LeetCode/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/Harshit-spec20/LeetCode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Harshit-spec20/LeetCode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harshit-spec20/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Harshit-spec20/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshit-spec20/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -550,6 +552,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Harshit-spec20/LeetCode/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/Harshit-spec20/LeetCode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
