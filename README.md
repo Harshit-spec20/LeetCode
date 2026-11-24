@@ -399,6 +399,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Harshit-spec20/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Harshit-spec20/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2390-removing-stars-from-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Harshit-spec20/LeetCode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Harshit-spec20/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -434,6 +435,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harshit-spec20/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Harshit-spec20/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshit-spec20/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -497,6 +499,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Harshit-spec20/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2109-adding-spaces-to-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2390-removing-stars-from-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Harshit-spec20/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Matrix
