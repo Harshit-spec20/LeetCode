@@ -164,6 +164,7 @@
 | [2427-number-of-common-factors](https://github.com/Harshit-spec20/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/Harshit-spec20/LeetCode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Harshit-spec20/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3360-stone-removal-game](https://github.com/Harshit-spec20/LeetCode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Harshit-spec20/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3492-maximum-containers-on-a-ship](https://github.com/Harshit-spec20/LeetCode/tree/master/3492-maximum-containers-on-a-ship) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Harshit-spec20/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -500,6 +501,7 @@
 | [2109-adding-spaces-to-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [3360-stone-removal-game](https://github.com/Harshit-spec20/LeetCode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Harshit-spec20/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Harshit-spec20/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Matrix
