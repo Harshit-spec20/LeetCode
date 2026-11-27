@@ -104,6 +104,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Harshit-spec20/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
@@ -300,6 +301,7 @@
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Harshit-spec20/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3524-find-x-value-of-array-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/Harshit-spec20/LeetCode/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Minimax
 |  |
 | ------- |
@@ -492,6 +494,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harshit-spec20/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Harshit-spec20/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Harshit-spec20/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Simulation
 |  |
 | ------- |
