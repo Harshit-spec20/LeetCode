@@ -105,6 +105,7 @@
 | [3903-smallest-stable-index-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Harshit-spec20/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Harshit-spec20/LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 | [2733-neither-minimum-nor-maximum](https://github.com/Harshit-spec20/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2747-count-zero-request-servers](https://github.com/Harshit-spec20/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Harshit-spec20/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Harshit-spec20/LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Math
 |  |
 | ------- |
@@ -234,6 +236,7 @@
 | [0912-sort-an-array](https://github.com/Harshit-spec20/LeetCode/tree/master/0912-sort-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Harshit-spec20/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Harshit-spec20/LeetCode/tree/master/1882-process-tasks-using-servers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Harshit-spec20/LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -495,6 +498,7 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Harshit-spec20/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Harshit-spec20/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Harshit-spec20/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Harshit-spec20/LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Simulation
 |  |
 | ------- |
